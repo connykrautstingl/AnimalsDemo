@@ -1,4 +1,4 @@
-package at.campus02.kandlhofer;
+package at.campus02.krautstingl;
 
 import java.util.*;
 
